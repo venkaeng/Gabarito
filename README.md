@@ -37,9 +37,9 @@ Para instalar como app: toque nos **três pontinhos** do Chrome → **Adicionar 
 
 | Métrica | O que mede | Escala |
 |---|---|---|
-| 🔋 **Energia** | Seu estado biológico no momento | 1 (esgotado) → 5 (pleno) |
-| 🎯 **Foco** | Sua capacidade de concentração agora | 1 (disperso) → 5 (totalmente focado) |
-| 🧱 **Resistência** | O quanto você está evitando uma tarefa | 1 (zero resistência) → 5 (bloqueio total) |
+| 🔋 **Energia** | Seu estado biológico no momento | Baixo (Esgotado) $\rightarrow$ Alto (Pleno) | 1, 3, 5 |
+| 🎯 **Foco** | Sua capacidade de concentração agora | Baixo (Disperso) $\rightarrow$ Alto (Focado) | 1, 3, 5 |
+| 🧱 **Resistência** | O quanto você está evitando a tarefa | Baixo (Fluindo) $\rightarrow$ Alto (Bloqueio Total) | 1, 3, 5 |
 
 A **Resistência** é especialmente importante: ela permite à IA distinguir se você deixou de fazer algo por **esgotamento real** ou por **fricção cognitiva** com a tarefa em si. São causas diferentes que exigem soluções diferentes.
 
