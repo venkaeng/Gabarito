@@ -1,0 +1,24 @@
+{
+  "name": "Gabarito V2",
+  "short_name": "Gabarito",
+  "description": "Acompanhamento de rotina com psicologia cognitiva",
+  "start_url": "./gabarito-v2.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1117",
+  "theme_color": "#0f1117",
+  "icons": [
+    {
+      "src": "1000132576.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "1000132576.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
